@@ -1,19 +1,15 @@
 .banner {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../../images/banner.jpg");
   background-size: cover;
-  background-position: center;
-  padding: 120px 0px;
-  text-align: center;
+  padding: 100px 0px;
 }
 
 .banner h1 {
   color: white;
-  font-size: 48px;
   margin-top: 0px;
 }
 
 .banner p {
   color: white;
-  font-size: 20px;
   margin-bottom: 40px;
 }

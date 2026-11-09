@@ -2,10 +2,5 @@
   background-color: #c2185b;
   color: white;
   padding: 12px 30px;
-  border-radius: 30px;
-  font-weight: bold;
-}
-
-.btn-primary:hover {
-  background-color: #a3134c;
+  border-radius: 4px;
 }
